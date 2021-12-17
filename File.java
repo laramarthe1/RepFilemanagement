@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 public class File{
     private Strine name;
-}
-=======
-puplic class File {
+
 private int _fileId;
 }
->>>>>>> e950799ad04543477ed5c47a678aad91f2233881
+
